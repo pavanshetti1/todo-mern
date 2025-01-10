@@ -3,15 +3,14 @@
 This is a full-stack To-Do Application built using the **MERN** stack  ( **MongoDB, Express, React, and Node.js** ) and deployed on ***Render***.
 <br /> <br />
 
-<br /> <br />
 
-# 🌟 Features
-### 🔒 User Authentication: Sign up, log in, and manage sessions using JWT and cookies.
-### ➕ Add, Edit, and Delete Tasks: Manage your tasks easily.
-### 📱 Responsive UI: A clean and intuitive user interface built with React.
-### 💾 Persistent Storage: Tasks are stored in a MongoDB database.
-### 🌐 Cross-Origin Requests: CORS is configured for secure frontend-backend communication.
-### 🚀 Deployed on Render: Both the frontend and backend are hosted on Render.
+## 🌟 Features
+🔒 User Authentication: Sign up, log in, and manage sessions using JWT and cookies.<br />
+➕ Add, Edit, and Delete Tasks: Manage your tasks easily.<br />
+📱 Responsive UI: A clean and intuitive user interface built with React.<br />
+💾 Persistent Storage: Tasks are stored in a MongoDB database.<br />
+🌐 Cross-Origin Requests: CORS is configured for secure frontend-backend communication.<br />
+🚀 Deployed on Render: Both the frontend and backend are hosted on Render.<br />
 <br /> <br />
 
 ## 🔧 Technologies Used
@@ -25,7 +24,7 @@ This is a full-stack To-Do Application built using the **MERN** stack  ( **Mongo
 | **Deployment**  | Render (Frontend & Backend)                       |
 
 <br /> <br />
-# 🌐 Deployment
+## 🌐 Deployment
 The app is deployed using Render: https://todo-mern-ycz3.onrender.com
 
 <br /> <br />
